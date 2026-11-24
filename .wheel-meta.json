@@ -1,0 +1,22 @@
+{
+  "wheel_id": 960,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-159",
+  "project": "seo-services-brisbane-signs-you-need-a63b223c2cd4e9d1ddf61bc712",
+  "parent_t1_ref": "theseocompanybrisbane-012",
+  "node_role": "buffer",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane signs you need",
+  "intended_url": "http://seo-services-brisbane-signs-you-need-a63b223c2cd4e9d1ddf61bc712.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "41e8c57589b165b0",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/seo-services-brisbane-012/",
+      "anchor": "the seo services brisbane overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
